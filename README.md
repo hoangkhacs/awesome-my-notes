@@ -36,6 +36,7 @@ Bộ sưu tập các tài nguyên học tập, phỏng vấn và thực hành l�
 ### LeetCode
 
 - **[LeetCode Solutions](https://github.com/azl397985856/leetcode)** - Bộ giải thuật LeetCode với giải thích chi tiết (hơn 91 bài)
+- **[My LeetCode Bookmarks](./bookmarks/leetcode.md)** - Bộ sưu tập các bài LeetCode quan trọng với giải pháp chi tiết
 
 ### Tổng hợp thuật toán
 
